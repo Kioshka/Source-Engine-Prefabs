@@ -2,4 +2,4 @@
 
 A set of different architectural elements for your maps (Prefabs)\
 Will be replenished from time to time\
-Also preparing version for source 2
+A more detailed version for source 2 is in development
